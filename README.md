@@ -5,7 +5,6 @@
 <hr>
 
 
-### T
 
 <h2><span style="color:#0B666A;font-weight:700;font-size:29px">
    Git Commands List
@@ -13,7 +12,7 @@
 
 | **Command** | **Description** |
 | --- | --- |
-| **👉 git init** | **✍️ Initialize a new repository** |
+| **👉 git config** | **✍️ This is the command used to get or set configuration variables in Git.** |
 |              | `git init` |
 | **👉 git clone** | **✍️ Clone a remote repository** |
 |              | `git clone https://github.com/example/repo.git` |
